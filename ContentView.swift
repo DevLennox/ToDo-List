@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  ToDo-List
-//
-//  Created by Garbe, Lennart (SE-A/32) on 17.10.24.
-//
-
 import SwiftUI
 
 struct ToDo: Identifiable {
